@@ -4,7 +4,27 @@ title: Changelog
 sidebar_position: 1
 ---
 
-## [0.1.0] - 2024-03-06
+![ESS Kit Icon](/img/kit-icons/ess-kit-icon.svg)
+
+### ESS KIT
+
+All notable changes to this Kit will be documented in this file.
+
+## [2.0.0] - unreleased
+
+### Added
+
+- ./.
+
+### Changed
+
+- Changed banner image file location and converted .png image to .svg
+
+### Removed
+
+- ./.
+
+## [1.0.0] - 2024-03-06
 
 ### Added
 
